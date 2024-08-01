@@ -99,19 +99,14 @@ EDA helps in understanding the data distribution, identifying patterns, and visu
 We used a Random Forest model to predict maintenance needs based on machine operation metrics.
 - **Model Training:** Train-test split, model fitting.
 - **Evaluation:** Mean Squared Error (MSE), R-squared (R²).
-- **Scripts:** Refer to `scripts/predictive_maintenance.py`.
+
 
 ## Productivity Optimization Model
 A Random Forest model was also used to predict and optimize cycle times.
 - **Model Training:** Feature selection, train-test split, model fitting.
 - **Evaluation:** Mean Squared Error (MSE), R-squared (R²).
-- **Scripts:** Refer to `scripts/productivity_optimization.py`.
 
-## Survival Analysis
-Survival analysis techniques were applied to predict the time until machine failure.
-- **Kaplan-Meier Estimator:** Estimate survival function.
-- **Cox Proportional Hazards Model:** Incorporate covariates for hazard function modeling.
-- **Scripts:** Refer to `scripts/survival_analysis.py`.
+
 
 ## Results and Evaluation
 - **Predictive Maintenance:** R² of 0.922 with Random Forest.
