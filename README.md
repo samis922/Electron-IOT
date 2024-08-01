@@ -10,7 +10,6 @@ This project includes predictive maintenance and productivity optimization model
 - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
 - [Predictive Maintenance Model](#predictive-maintenance-model)
 - [Productivity Optimization Model](#productivity-optimization-model)
-- [Survival Analysis](#survival-analysis)
 - [Results and Evaluation](#results-and-evaluation)
 - [Future Work](#future-work)
 - [Contributing](#contributing)
